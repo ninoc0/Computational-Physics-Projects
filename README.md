@@ -5,6 +5,7 @@ This is an ongoing project that will be updated weekly that is being done as an 
 ### 1. Planetary Simulation
 
 The first project we worked on was a simulation of the Earth revolving around the sun using real values. Future updates of this project may add other planetary bodies and will include a write up on how these extra bodies affect those around it.
+
 ---
 ### 2. Gas Particle Simulation
 
