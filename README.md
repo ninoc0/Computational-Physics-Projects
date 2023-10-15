@@ -1,5 +1,5 @@
 ## Computational Physics Project
-This is an ongoing project that will be updated weekly that is being done as an independent study under Syracuse Professor Walter Freeman.
+This is a past project that was done as an independent study under Syracuse Professor Walter Freeman.
 Nico O'Neill | [neoneill@syr.edu](mailto:neoneill@syr.edu)
 
 ---
